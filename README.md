@@ -8,6 +8,6 @@
 
 ![image](/Screenshots/img.png)
 
-##### Information about jobs is saved in text files
+##### All information is saved in text files
 
 ![image](/Screenshots/jobs.png)
